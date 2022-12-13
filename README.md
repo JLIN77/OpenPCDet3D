@@ -1,6 +1,7 @@
-'''
+```
 git clone https://github.com/JLIN77/OpenPCDet3D.git
-'''
+```
+
 ## Overview
 - [Installation](docs/INSTALL.md)
 - [Quick Demo](docs/DEMO.md)
